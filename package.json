@@ -1,0 +1,16 @@
+{
+  "name": "express_form",
+  "version": "1.0.0",
+  "description": "new project",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server",
+    "dev": "node --watch --env-file=.env  app.js"
+  },
+  "author": "Tamimu rashid",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
